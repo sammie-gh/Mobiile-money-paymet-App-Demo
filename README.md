@@ -4,5 +4,5 @@ Mobile money Payment and CC payment using Rave
 Support for other Countries NG,KE,ZA
   
  # Images 
- ![](/screenshot.png)
+ ![](/Screenshot.png)
  
